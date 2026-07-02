@@ -15,8 +15,7 @@ This project is an interactive Tableau dashboard that analyzes global technology
 ## Dashboard
 
 View the live dashboard here:
-
-(https://public.tableau.com/authoring/GlobalTechLayoffsDashboard20202025/Dashboard1#1)
+(https://public.tableau.com/shared/97B7358CJ?:display_count=n&:origin=viz_share_link)
 
 ## Tech Stack
 
