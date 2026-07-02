@@ -1,4 +1,3 @@
-<img width="1392" height="821" alt="Screenshot 2026-07-02 at 2 44 09 PM" src="https://github.com/user-attachments/assets/7e70a197-36f7-4fd1-a130-a0a3840993d8" /># 🌍 Global Tech Layoffs Dashboard (2020–2025)
 
 ## Overview
 
@@ -33,6 +32,8 @@ View the live dashboard here:
 - Hardware and Consumer sectors experienced the highest layoffs.
 
 ## Preview
+
+<img width="1392" height="821" alt="Screenshot 2026-07-02 at 2 44 09 PM" src="https://github.com/user-attachments/assets/7e70a197-36f7-4fd1-a130-a0a3840993d8" /># 🌍 Global Tech Layoffs Dashboard (2020–2025)
 
 
 
