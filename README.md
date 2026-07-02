@@ -14,7 +14,8 @@ This project is an interactive Tableau dashboard that analyzes global technology
 
 ## Dashboard
 
-View the live dashboard here:
+View the live dashboard here: 
+->View it in full screen please :) 
 (https://public.tableau.com/shared/97B7358CJ?:display_count=n&:origin=viz_share_link)
 
 ## Tech Stack
